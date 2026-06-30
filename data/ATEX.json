@@ -1,0 +1,64 @@
+{
+  "category": "ATEX / Explosion-Proof Applications",
+  "categoryId": "atex-applications",
+  "applications": [
+    {
+      "id": "app-01",
+      "site": "Changlian Chemical (Panjin) Co., Ltd.",
+      "unit": "BDO Unit - High-Concentration Saline Organic Waste Liquid Incinerator",
+      "equipment": "Explosion-Proof Local Control Panel (LCP) for Soot Blower",
+      "atexRating": "Ex d IIB T6 Gb",
+      "features": [
+        "Power indication and 3-phase current/voltage monitoring.",
+        "Real-time operating status indication for valves and soot blowers.",
+        "HMI/Indicator display of operating modes (Remote Auto/Local Auto/Local Manual), run status, and system alarms (Overload/Timeout).",
+        "Power isolation control: 380V AC main power and 24V DC control power switching.",
+        "Load control: Mode switching, sequence execution (Pause/Resume/E-Stop/Reset), and discrete actuator switching."
+      ],
+      "technicalContributions": [
+        "Liaised with the client to define project scope. Integrated the new explosion-proof LCP with the existing legacy S7-300 master PLC without altering core logic.",
+        "Confirmed I/O requirements and designed electrical schematics, ensuring strict alignment with ATEX standards, enclosure sizing, and mounting specifications.",
+        "Coordinated with external panel builders for component selection, enclosure material, cutout design, and cable entry routing.",
+        "Executed Factory Acceptance Testing (FAT).",
+        "Managed on-site installation, cabling, and loop checking.",
+        "Conducted load testing, Site Acceptance Testing (SAT), and operator training."
+      ]
+    },
+    {
+      "id": "app-02",
+      "site": "Sinograin Yingkou Storage and Transportation Co., Ltd.",
+      "unit": "Port Grain Silos and Conveyor Lines",
+      "equipment": "Explosion-Proof Power Distribution Box",
+      "atexRating": "Ex tD A21 IP65 T80°C (Combustible Dust)",
+      "features": [
+        "Upgraded power supply distribution for silo and conveyor loads to comply with combustible dust explosion-proof regulations.",
+        "Power status indication for main incoming line and branch receptacles.",
+        "Main breaker isolation and individual branch circuit switching."
+      ],
+      "technicalContributions": [
+        "Assessed site requirements and coordinated the safe removal of non-compliant legacy panels and deployment of ATEX-certified distribution boxes.",
+        "Designed electrical schematics and ensured technical compatibility with ATEX dust standards and heavy-duty aviation plug connectors.",
+        "Managed supply chain coordination for enclosure fabrication, including material specification, gland plates, and cable entries.",
+        "Performed FAT, on-site installation, load commissioning, SAT, and client handover."
+      ]
+    },
+    {
+      "id": "app-03",
+      "site": "Banmiaozi Gold Mine, Baishan, Jilin",
+      "unit": "Underground Mine Ventilation Fan",
+      "equipment": "Mining Explosion-Proof VFD (3-Phase 660V) with Heat Pipe Forced Air Cooling Enclosure",
+      "atexRating": "Ex d I Mb (Mining Flameproof)",
+      "features": [
+        "Driven 3-phase heavy-duty mine ventilation motors (660V/690V).",
+        "Implemented closed-loop pressure-to-frequency PID control."
+      ],
+      "technicalContributions": [
+        "Conducted complex on-site troubleshooting for damaged output inverter IGBT modules.",
+        "Performed root cause analysis: Analyzed fault history (frequent overload/overvoltage) and complex underground airflow dynamics. Identified that the 'Flying Start' parameter was disabled, causing motor regeneration and DC bus overvoltage during startup against opposing wind currents.",
+        "Sourced and verified spare parts including 3 sets of IGBT modules, filter capacitors, and current-limiting resistors for immediate intervention.",
+        "Executed on-site hardware repairs, component replacement, enclosure reassembly, and static electrical checks.",
+        "Powered on and recommissioned the drive under load, optimized VFD parameters (enabled Flying Start), and eliminated the recurring fault."
+      ]
+    }
+  ]
+}
