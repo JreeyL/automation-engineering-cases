@@ -1,0 +1,108 @@
+{
+    "category": "Custom & Non-Standard Automation Systems",
+    "categoryId": "custom-automation",
+    "applications": [
+        {
+            "id": "app-04",
+            "site": "COFCO Bio-Energy (Zhaodong) Co., Ltd.",
+            "unit": "LW760B Decanter Centrifuge",
+            "equipment": "System Control Cabinet and HMI Local Operation Panel",
+            "projectType": "Turnkey Electrical Control System (Design, Software, Commissioning), utilizing existing mechanical infrastructure.",
+            "features": [
+                "Smart Start/Stop: One-touch activation with prerequisite diagnostics (oil pressure/temperature) and historical parameter memory.",
+                "Online Stepless Speed Regulation: Dynamic speed adjustment for both the main motor (bowl) and secondary motor (scroll/differential).",
+                "Adaptive Differential Speed Control: Torque-priority logic that automatically adjusts the secondary motor speed when current limits are exceeded.",
+                "Auto CIP (Clean-in-Place): Time-delayed automatic flushing sequence with configurable durations based on bowl RPM (1000-1500r/min).",
+                "Safety Interlocks: Emergency stop integration and automatic shutdown protocols for motor overload, high oil temp (>80°C), low oil pressure (<0.7kg/cm), and excessive vibration."
+            ],
+            "technicalContributions": [
+                "Consulted with the client to define the upgrade scope, addressing legacy hardware failures and integrating new process demands (online parameter tuning, DCS integration).",
+                "Optimized panel design by separating the system control cabinet (relocated to a clean environment) from the local operation panel to mitigate original harsh, acidic, and dusty platform conditions.",
+                "Acted as the lead technical bridge between the mechanical OEM and the end-user, refining the control strategy based on complex mechanical load characteristics.",
+                "Coordinated BOM, cost estimation, and electrical schematic design.",
+                "Managed software programming, system integration, on-site installation, and commissioning schedules.",
+                "Successfully delivered SAT, operator training, and finalized standardized project documentation."
+            ]
+        },
+        {
+            "id": "app-05",
+            "site": "LiaoNing Microflex Bellows Manufacturing Co., Ltd.",
+            "unit": "CNC Hydraulic Press",
+            "equipment": "Drive and Control System (PLC, HMI, and PMSM Drives)",
+            "projectType": "Control & Drive Solution (Software design, configuration, and commissioning).",
+            "features": [
+                "Smart Start/Stop: One-touch hydraulic pump activation conditioned on system pressure diagnostics.",
+                "Multi-Stage Frequency Control: Dynamic VFD regulation to optimize PMSM speeds across varying operational states.",
+                "Bumpless Mode Switching: Seamless transitions between Auto/Manual and Encoder-limit/Proximity-switch modes.",
+                "Advanced Cylinder Control: Multi-stage stroke parameters, pressure-holding delays, and error compensation logic for upper/lower hydraulic cylinders.",
+                "Safety Interlocks: Light curtain integration, E-stop, motor overcurrent/overload, and hydraulic overpressure alarms/shutdowns."
+            ],
+            "technicalContributions": [
+                "Defined project requirements for a custom machine used in manufacturing high-durability welded bellows for solar, pharma, and aerospace industries.",
+                "Mapped I/O, control sequencing, and interlocking mechanisms. Selected core PLC, HMI, and Drive components.",
+                "Collaborated on PLC software configuration and state-machine design.",
+                "Led on-site commissioning and load testing.",
+                "Spearheaded the refactoring and updating of PLC/HMI software to accommodate different press tonnage models based on evolving production recipes.",
+                "Executed successful FAT/SAT and client training over a 1-year custom equipment validation cycle."
+            ]
+        },
+        {
+            "id": "app-06",
+            "site": "Yingkou Saiside Profile Co., Ltd.",
+            "unit": "Aluminum Extrusion Line Puller (Run-out Tractor)",
+            "equipment": "Servo Drive System (PLC, HMI, Servo Motor, Drive, and Reducer)",
+            "projectType": "Control & Drive Solution (Software design, configuration, and commissioning).",
+            "features": [
+                "Constant Speed Pulling & Guiding: Synchronized servo pulling to prevent bending, twisting, or breaking of high-temperature extruded aluminum.",
+                "Auto Interrupt & Return: Integrated with sawing operations; releases material upon cut and executes rapid return for continuous, seamless production.",
+                "Smart Mode Control: One-touch start, Auto/Manual switching, and parameter memory.",
+                "Dynamic Parameter Tuning: Online adjustment of pull force, speed, sawing modes (multi-ingot/single-saw), and length presets.",
+                "Safety Interlocks: Protections against motor overload/overcurrent, encoder feedback faults, and saw enable errors."
+            ],
+            "technicalContributions": [
+                "Assessed existing VFD-based traction systems and proposed a high-precision servo upgrade to meet tighter production tolerances.",
+                "Mapped I/O, sequenced logic, and led the selection of PLC, HMI, servo drives, and gear reducers.",
+                "Assisted in software configuration and motion control logic.",
+                "Led on-site servo tuning, load testing, SAT, and operator training."
+            ]
+        },
+        {
+            "id": "app-07",
+            "site": "Yingkou Saiside Profile Co., Ltd.",
+            "unit": "Aluminum Melting Furnace Pulse-Jet Baghouse Dust Collector",
+            "equipment": "Control and Drive System (PLC, HMI, Main Fan VFD)",
+            "projectType": "Control & Drive Solution (Software design, configuration, and commissioning).",
+            "features": [
+                "Dual Mode Operation: Manual override for all discrete actuators (valves, fans) and fully automated logic linked to process variables (temp, intervals).",
+                "Temperature Interlocks & Valve Routing: Automated switching between furnace valves and cold air valves based on inlet temperature thresholds.",
+                "Offline Pulse Cycle Cleaning: Highly configurable pulse-jet sequencing (pulse width, interval, cycle count, and bin-to-bin delays).",
+                "Smart VFD Fan Control: Automated frequency matching across 4 distinct operational valve states.",
+                "Synchronized Ash Discharge: Interlocked discharge and vibration motors operating during bin offline states.",
+                "Asset Protection: Filter bag over-temp shutdown and a 5-minute delayed shutdown sequence for main fan cooling."
+            ],
+            "technicalContributions": [
+                "Defined the control scope for the complete overhaul of a legacy furnace dust collection system.",
+                "Mapped discrete I/O, sequenced logic, and specified PLC, HMI, and VFD hardware.",
+                "Independently designed and developed the complete PLC logic and HMI software architecture.",
+                "Led on-site commissioning, loop checking, and load testing.",
+                "Independently refactored the HMI UI during production downtime to enhance usability without disrupting urgent manufacturing schedules."
+            ]
+        },
+        {
+            "id": "app-08",
+            "site": "Dalian Betop Culture Technology Co., Ltd.",
+            "unit": "Animatronic 'Mecha Ox' (Optimus Ox No. 21) - 4m tall, 6.5m long, 4 tons",
+            "equipment": "PLC and Multi-Axis Servo Drive System",
+            "projectType": "Control & Drive Solution, Panel Building, and Commissioning.",
+            "features": [
+                "Multi-Axis Motion Control: Synchronized servo control for kinetic parts including ears, eyes, mouth, and mechanical gears.",
+                "Automated Performance Routines: Multi-mode automated playback of kinetic sequences integrated with atmospheric effects (fog machines).",
+                "Safety Systems: Overcurrent and overload protections for dynamic mechanical loads."
+            ],
+            "technicalContributions": [
+                "Participated in control panel assembly, wiring, and field termination.",
+                "Led the on-site tuning and commissioning of the multi-axis servo drives to ensure fluid, safe kinetic movements of the massive structure."
+            ]
+        }
+    ]
+}

@@ -4,7 +4,7 @@
   "applications": [
     {
       "id": "app-01",
-      "site": "Changlian Chemical (Panjin) Co., Ltd.",
+      "site": "Chang Chun Dairen Chemical (Panjin) Co., Ltd.",
       "unit": "BDO Unit - High-Concentration Saline Organic Waste Liquid Incinerator",
       "equipment": "Explosion-Proof Local Control Panel (LCP) for Soot Blower",
       "atexRating": "Ex d IIB T6 Gb",
@@ -44,7 +44,7 @@
     },
     {
       "id": "app-03",
-      "site": "Banmiaozi Gold Mine, Baishan, Jilin",
+      "site": "Jilin Banmiaozi Mining Co., Ltd.",
       "unit": "Underground Mine Ventilation Fan",
       "equipment": "Mining Explosion-Proof VFD (3-Phase 660V) with Heat Pipe Forced Air Cooling Enclosure",
       "atexRating": "Ex d I Mb (Mining Flameproof)",

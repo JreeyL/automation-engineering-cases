@@ -1,0 +1,81 @@
+{
+    "category": "Medium Voltage (MV) Drive Applications & Commissioning",
+    "categoryId": "mv-vfd-applications",
+    "certifications": [
+        "Authorized OEM Field Engineer: Inovance Technology (Leading global automation manufacturer)",
+        "Special Operation Certificate: High-Voltage Electrical Operations (covers IEC Medium Voltage up to 10kV), PRC Ministry of Emergency Management"
+    ],
+    "sharedSOP": {
+        "title": "Standardized MV VFD Commissioning Protocol (15-Step FAT/SAT Procedure)",
+        "steps": [
+            "1. Mechanical & Ventilation: Verify enclosure installation, top-mounted cooling fans, and ventilation ducts.",
+            "2. MV Cabling & Insulation: Inspect MV cable routing and validate Hi-Pot (High Potential) / Megger test reports with the client.",
+            "3. Transformer Integration: Verify secondary cable connections of the phase-shifting transformer (for multi-cell configurations).",
+            "4. Bypass System Check: Inspect MV incoming/outgoing terminations in the bypass cabinet.",
+            "5. Switchgear Readiness: Confirm MV switchgear readiness and verify the availability of MV breaker control power.",
+            "6. Mechanical Clearance: Ensure the motor load has physical clearance and conditions for safe rotation.",
+            "7. DCS Coordination: Confirm DCS system readiness for joint loop testing.",
+            "8. LV Control Power: Verify 380V AC and 220V AC control power connections to the VFD cabinet.",
+            "9. I/O & Interlock Testing: Configure and simulate MV interlocking signals and client I/O requirements (DI, DO, AI, AO).",
+            "10. Pre-Energization Diagnostics: Final earth/ground checks. Execute MV energization for VFD self-diagnostics (power cell and transformer sampling checks).",
+            "11. Uncoupled Auto-Tuning: Decouple the motor and execute no-load dynamic auto-tuning to establish motor models.",
+            "12. Load Commissioning: Re-couple the motor and execute under-load trial runs, tuning PID and dynamic responses.",
+            "13. Handover & Training: Execute final SAT (Site Acceptance Testing) and deliver comprehensive operator training."
+        ]
+    },
+    "applications": [
+        {
+            "id": "app-09",
+            "site": "China Resources Power (Panjin) Co., Ltd.",
+            "unit": "Power Plant Circulating Water Pump (CWP)",
+            "equipment": "10kV / 1120kW MV VFD",
+            "features": [
+                "Driven 1120kW MV motor for critical cooling water circulation.",
+                "Integrated with a manual bypass cabinet to enable VFD-to-DOL (Direct-On-Line) Mains transfer for redundant operation."
+            ]
+        },
+        {
+            "id": "app-10",
+            "site": "Panjin Cenway New Chemical Materials Co., Ltd.",
+            "unit": "Petrochemical Ethylene Compressor",
+            "equipment": "10kV / 6000kW MV VFD",
+            "features": [
+                "Commissioned a massive 6MW drive for a high-inertia petrochemical compressor.",
+                "Implemented advanced synchronous transfer logic (Phase-locked & Frequency-locked) to achieve bumpless VFD-to-Mains and Mains-to-VFD switching."
+            ]
+        },
+        {
+            "id": "app-11",
+            "site": "Chifeng Shanjin Hongling Lead-Zinc Mine",
+            "unit": "Mining Ball Mill",
+            "equipment": "10kV / 630kW MV VFD with PMSM",
+            "features": [
+                "Driven a Medium Voltage Permanent Magnet Synchronous Motor (PMSM).",
+                "Integrated an auto-bypass cabinet for VFD/Mains transfer.",
+                "Configured auxiliary PLC logic to control and protect the motor's closed-loop water cooling system."
+            ]
+        },
+        {
+            "id": "app-12",
+            "site": "Dalian Rubber & Plastics Machinery Co., Ltd.",
+            "unit": "Rubber Internal Mixer (Banbury Mixer)",
+            "equipment": "10kV / 3000kW MV VFD",
+            "features": [
+                "Commissioned a 3MW drive for heavy-duty rubber mixing with extreme load fluctuations.",
+                "Integrated encoder feedback to execute precise Closed-Loop Vector Control for high starting torque.",
+                "Configured auto-bypass functionality for continuous production reliability."
+            ]
+        },
+        {
+            "id": "app-13",
+            "site": "Yingkou Iron and Steel Co., Ltd.",
+            "unit": "Metallurgical Sintering Fan",
+            "equipment": "10kV / 4750kW MV VFD",
+            "features": [
+                "Driven a high-capacity 4.75MW exhaust fan for metallurgical sintering.",
+                "Executed specialized pre-charge testing (capacitor reforming) prior to commissioning due to prolonged equipment storage.",
+                "Integrated auto-bypass transfer switching."
+            ]
+        }
+    ]
+}
