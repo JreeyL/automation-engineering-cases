@@ -16,7 +16,7 @@ A highly optimized, mobile-first portfolio website built to showcase medium-volt
 
 ## ✨ Key Features
 
-* **Dynamic Data Architecture**: Automates the rendering of project cards, external client website URLs, and thumbnails by intelligently mapping JSON data (`src/data`) to the UI.
+* **Dynamic Data Architecture**: Automates the rendering of project cards, external client website URLs, image thumbnails, and integrated YouTube video links by intelligently mapping JSON data (`src/data`) to the UI.
 * **Industrial Dark Mode UI**: A highly professional deep slate/zinc background accented with "Siemens Green" (`#009999`) to resonate with OT/IT engineering aesthetics.
 * **React Portal Lightbox**: A custom, dependency-free image gallery built from scratch to prevent CSS stacking-context (z-index) conflicts, featuring keyboard navigation.
 * **Interactive SOP Component**: An expandable accordion built specifically for outlining the 15-Step FAT/SAT Standardized Commissioning Protocol.
@@ -43,7 +43,8 @@ A highly optimized, mobile-first portfolio website built to showcase medium-volt
 │   │   ├── companies.json
 │   │   ├── custom-automation.json
 │   │   ├── images.json         # Image mapping index
-│   │   └── mv-vfd-applications.json
+│   │   ├── mv-vfd-applications.json
+│   │   └── videos.json         # YouTube video mapping
 │   └── utils/
 │       └── dataMapper.ts       # Parses JSON and perfectly binds companies/images to projects
 ├── postcss.config.js           # PostCSS configuration for Tailwind

@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import { Application } from '../utils/dataMapper';
-import { ExternalLink, Zap, MapPin, Building2, Tag } from 'lucide-react';
+import { ExternalLink, Zap, MapPin, Building2, Tag, PlayCircle } from 'lucide-react';
 import ImageLightbox from './ImageLightbox';
 
 interface ProjectCardProps {
@@ -76,9 +76,9 @@ export default function ProjectCard({ app }: ProjectCardProps) {
         </div>
 
         {/* Thumbnail Gallery Footer */}
-        {app.images && app.images.length > 0 && (
+        {((app.images && app.images.length > 0) || app.videoUrl) && (
           <div className="p-4 bg-zinc-950/50 border-t border-zinc-800 flex items-center space-x-3 overflow-x-auto">
-            {app.images.slice(0, 3).map((img, idx) => (
+            {app.images?.slice(0, 3).map((img, idx) => (
               <div 
                 key={idx} 
                 onClick={() => openLightbox(idx)}
@@ -93,13 +93,24 @@ export default function ProjectCard({ app }: ProjectCardProps) {
                 <div className="absolute inset-0 bg-black/30 group-hover:bg-transparent transition-colors" />
               </div>
             ))}
-            {app.images.length > 3 && (
+            {app.images && app.images.length > 3 && (
               <div 
                 onClick={() => openLightbox(3)}
                 className="h-16 w-24 shrink-0 rounded-md border border-zinc-700 bg-zinc-800 flex items-center justify-center cursor-pointer hover:bg-zinc-700 transition"
               >
                 <span className="text-xs font-medium text-zinc-300">+{app.images.length - 3} More</span>
               </div>
+            )}
+            {app.videoUrl && (
+              <a 
+                href={app.videoUrl} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="h-16 w-24 shrink-0 rounded-md border border-zinc-700 bg-zinc-800 flex flex-col items-center justify-center hover:bg-zinc-700 hover:scale-105 transition-all duration-300 group cursor-pointer"
+              >
+                <PlayCircle className="h-6 w-6 text-siemens mb-0.5 group-hover:scale-110 transition-transform" />
+                <span className="text-[10px] font-medium text-zinc-300 uppercase tracking-wider">Video</span>
+              </a>
             )}
           </div>
         )}
