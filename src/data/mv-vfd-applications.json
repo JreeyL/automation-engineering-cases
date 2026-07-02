@@ -6,7 +6,7 @@
         "Special Operation Certificate: High-Voltage Electrical Operations (covers IEC Medium Voltage up to 10kV), PRC Ministry of Emergency Management"
     ],
     "sharedSOP": {
-        "title": "Standardized MV VFD Commissioning Protocol (15-Step FAT/SAT Procedure)",
+        "title": "Standardized MV VFD Commissioning Protocol (13-Step FAT/SAT Procedure)",
         "steps": [
             "1. Mechanical & Ventilation: Verify enclosure installation, top-mounted cooling fans, and ventilation ducts.",
             "2. MV Cabling & Insulation: Inspect MV cable routing and validate Hi-Pot (High Potential) / Megger test reports with the client.",
