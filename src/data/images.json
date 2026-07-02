@@ -1,270 +1,282 @@
-[
-  {
-    "path": "images/ATEX/Explosion-Proof-Local-Control-Panel/Client-Photo.jpg",
-    "description": "Client Photo"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Local-Control-Panel/Explosion-Proof Local-Control-Panel.jpg",
-    "description": "Explosion Proof Local Control Panel"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Power-Distribution-Box/Client-Photo.jpg",
-    "description": "Client Photo"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Power-Distribution-Box/Conveyor-Pipeline.jpg",
-    "description": "Conveyor Pipeline"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-indoor.jpg",
-    "description": "Explosion Proof Power Distribution Box Indoor"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-opendoor.jpg",
-    "description": "Explosion Proof Power Distribution Box Open Door"
-  },
-  {
-    "path": "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-outdoor.jpg",
-    "description": "Explosion Proof Power Distribution Box Outdoor"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Broken-IGBT-Module.jpg",
-    "description": "Broken IGBT Module"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Client-Photo.jpg",
-    "description": "Client Photo"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Load-Equipment-Photo.jpg",
-    "description": "Load Equipment Photo"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Opration-Panel.jpg",
-    "description": "Operation Panel"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Overview-VFD-opendoor.jpg",
-    "description": "Overview VFD Open Door"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Overview-VFD.jpg",
-    "description": "Overview VFD"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Personnel-in-Full-PPE.jpg",
-    "description": "Personnel In Full PPE"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/Replaced-IGBT-Module.jpg",
-    "description": "Replaced IGBT Module"
-  },
-  {
-    "path": "images/ATEX/Mining-Explosion-Proof-VFD/VFD-Nameplate.jpg",
-    "description": "VFD Nameplate"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/Circular-Saw.jpg",
-    "description": "Circular Saw"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/control-cabinet.jpg",
-    "description": "Control Cabinet"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/Extrusion Press.jpg",
-    "description": "Extrusion Press"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/HMI.jpg",
-    "description": "HMI"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/Line.jpg",
-    "description": "Line"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Extrusion-Line-Puller/Servo-Motor-and-Gearbox.jpg",
-    "description": "Servo Motor And Gearbox"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/control-cabinet-frontend.jpg",
-    "description": "Control Cabinet Frontend"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/control-cabinet.jpg",
-    "description": "Control Cabinet"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/HMI (2).jpg",
-    "description": "HMI (2)"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/HMI.jpg",
-    "description": "HMI"
-  },
-  {
-    "path": "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/Pulse-Jet Baghouse-Dust-Collector.jpg",
-    "description": "Pulse Jet Baghouse Dust Collector"
-  },
-  {
-    "path": "images/custom-automation/Animatronic-Mecha-Ox/Control Panel.jpg",
-    "description": "Control Panel"
-  },
-  {
-    "path": "images/custom-automation/Animatronic-Mecha-Ox/Control-Panel-opendoor.jpg",
-    "description": "Control Panel Open Door"
-  },
-  {
-    "path": "images/custom-automation/Animatronic-Mecha-Ox/Mall-Display-Photo.jpg",
-    "description": "Mall Display Photo"
-  },
-  {
-    "path": "images/custom-automation/Animatronic-Mecha-Ox/Production-Stage-Photo.jpg",
-    "description": "Production Stage Photo"
-  },
-  {
-    "path": "images/custom-automation/CNC-Hydraulic-Press/Die-Close-up.jpg",
-    "description": "Die Close Up"
-  },
-  {
-    "path": "images/custom-automation/CNC-Hydraulic-Press/Hydraulic-Press.jpg",
-    "description": "Hydraulic Press"
-  },
-  {
-    "path": "images/custom-automation/CNC-Hydraulic-Press/Pre-pressed-Workpiece.jpg",
-    "description": "Pre Pressed Workpiece"
-  },
-  {
-    "path": "images/custom-automation/CNC-Hydraulic-Press/Pressed-Workpiece.jpg",
-    "description": "Pressed Workpiece"
-  },
-  {
-    "path": "images/custom-automation/CNC-Hydraulic-Press/Welded-Client-Final-Product.jpg",
-    "description": "Welded Client Final Product"
-  },
-  {
-    "path": "images/custom-automation/LW760B-Decanter-Centrifuge/HMI.jpg",
-    "description": "HMI"
-  },
-  {
-    "path": "images/custom-automation/LW760B-Decanter-Centrifuge/Load-Equipment-Photo.jpg",
-    "description": "Load Equipment Photo"
-  },
-  {
-    "path": "images/custom-automation/LW760B-Decanter-Centrifuge/opration-floor.jpg",
-    "description": "Operation Floor"
-  },
-  {
-    "path": "images/custom-automation/LW760B-Decanter-Centrifuge/system-control-cabinet.jpg",
-    "description": "System Control Cabinet"
-  },
-  {
-    "path": "images/custom-automation/LW760B-Decanter-Centrifuge/system-control-cabinets.jpg",
-    "description": "System Control Cabinets"
-  },
-  {
-    "path": "images/MVVFD/MVVFD-Cabinet-Structure.jpg",
-    "description": "MVVFD Cabinet Structure"
-  },
-  {
-    "path": "images/MVVFD/System-Topology-Diagram.png",
-    "description": "System Topology Diagram"
-  },
-  {
-    "path": "images/MVVFD/ball-mill/Load-Equipment-Photo-backend.jpg",
-    "description": "Load Equipment Photo Backend"
-  },
-  {
-    "path": "images/MVVFD/ball-mill/Load-Equipment-Photo-frontend.jpg",
-    "description": "Load Equipment Photo Frontend"
-  },
-  {
-    "path": "images/MVVFD/ball-mill/Motor-Nameplate.jpg",
-    "description": "Motor Nameplate"
-  },
-  {
-    "path": "images/MVVFD/ball-mill/Operation-Photo.jpg",
-    "description": "Operation Photo"
-  },
-  {
-    "path": "images/MVVFD/ball-mill/Overall-Photo-of-the-MVD.jpg",
-    "description": "Overall Photo Of The MVD"
-  },
-  {
-    "path": "images/MVVFD/circulating-water-pump/Client-Photo.jpg",
-    "description": "Client Photo"
-  },
-  {
-    "path": "images/MVVFD/circulating-water-pump/Motor-Nameplate.jpg",
-    "description": "Motor Nameplate"
-  },
-  {
-    "path": "images/MVVFD/circulating-water-pump/Operation-Photo.jpg",
-    "description": "Operation Photo"
-  },
-  {
-    "path": "images/MVVFD/circulating-water-pump/Overall-Photo-of-the-MVD.jpg",
-    "description": "Overall Photo Of The MVD"
-  },
-  {
-    "path": "images/MVVFD/ethylene-compressor/Load-Equipment-Photo.jpg",
-    "description": "Load Equipment Photo"
-  },
-  {
-    "path": "images/MVVFD/ethylene-compressor/Motor-Nameplate.jpg",
-    "description": "Motor Nameplate"
-  },
-  {
-    "path": "images/MVVFD/ethylene-compressor/Operation-Photo.jpg",
-    "description": "Operation Photo"
-  },
-  {
-    "path": "images/MVVFD/ethylene-compressor/Overall-Photo-of-the-MVD-open-door.jpg",
-    "description": "Overall Photo Of The MVD Open Door"
-  },
-  {
-    "path": "images/MVVFD/ethylene-compressor/Overall-Photo-of-the-MVD.jpg",
-    "description": "Overall Photo Of The MVD"
-  },
-  {
-    "path": "images/MVVFD/internal-mixer/Load-Equipment-Photo.jpg",
-    "description": "Load Equipment Photo"
-  },
-  {
-    "path": "images/MVVFD/internal-mixer/Motor-Nameplate.jpg",
-    "description": "Motor Nameplate"
-  },
-  {
-    "path": "images/MVVFD/internal-mixer/Operation-Photo.jpg",
-    "description": "Operation Photo"
-  },
-  {
-    "path": "images/MVVFD/internal-mixer/Overall-Photo-of-the-MVD.jpg",
-    "description": "Overall Photo Of The MVD"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Drive-Input-Terminals.jpg",
-    "description": "Drive Input Terminals"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Drive-UVW-Output-Terminals.jpg",
-    "description": "Drive UVW Output Terminals"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Load-Equipment-Photo.jpg",
-    "description": "Load Equipment Photo"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Motor-Nameplate.jpg",
-    "description": "Motor Nameplate"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Operation-Photo.jpg",
-    "description": "Operation Photo"
-  },
-  {
-    "path": "images/MVVFD/sintering-fan/Secondary-Taps-of-Phase-Shifting-Transformer.jpg",
-    "description": "Secondary Taps Of Phase Shifting Transformer"
-  }
+﻿[
+    {
+        "path":  "images/MVVFD/ball-mill/Motor-Nameplate.jpg",
+        "description":  "Motor Nameplate"
+    },
+    {
+        "path":  "images/MVVFD/ball-mill/Operation-Photo.jpg",
+        "description":  "Operation Photo"
+    },
+    {
+        "path":  "images/MVVFD/ball-mill/Load-Equipment-Photo-backend.jpg",
+        "description":  "Load Equipment Photo Backend"
+    },
+    {
+        "path":  "images/MVVFD/ball-mill/Load-Equipment-Photo-frontend.jpg",
+        "description":  "Load Equipment Photo Frontend"
+    },
+    {
+        "path":  "images/MVVFD/circulating-water-pump/Motor-Nameplate.jpg",
+        "description":  "Motor Nameplate"
+    },
+    {
+        "path":  "images/MVVFD/circulating-water-pump/Operation-Photo.jpg",
+        "description":  "Operation Photo"
+    },
+    {
+        "path":  "images/MVVFD/ball-mill/Overall-Photo-of-the-MVD.jpg",
+        "description":  "Overall Photo Of The MVD"
+    },
+    {
+        "path":  "images/MVVFD/circulating-water-pump/Client-Photo.jpg",
+        "description":  "Client Photo"
+    },
+    {
+        "path":  "images/custom-automation/LW760B-Decanter-Centrifuge/system-control-cabinets.jpg",
+        "description":  "System Control Cabinets"
+    },
+    {
+        "path":  "images/custom-automation/CNC-Hydraulic-Press/Pressed-Workpiece.jpg",
+        "description":  "Pressed Workpiece"
+    },
+    {
+        "path":  "images/custom-automation/CNC-Hydraulic-Press/Welded-Client-Final-Product.jpg",
+        "description":  "Welded Client Final Product"
+    },
+    {
+        "path":  "images/custom-automation/CNC-Hydraulic-Press/Hydraulic-Press.jpg",
+        "description":  "Hydraulic Press"
+    },
+    {
+        "path":  "images/custom-automation/CNC-Hydraulic-Press/Pre-pressed-Workpiece.jpg",
+        "description":  "Pre Pressed Workpiece"
+    },
+    {
+        "path":  "images/custom-automation/LW760B-Decanter-Centrifuge/opration-floor.jpg",
+        "description":  "Opration Floor"
+    },
+    {
+        "path":  "images/custom-automation/LW760B-Decanter-Centrifuge/system-control-cabinet.jpg",
+        "description":  "System Control Cabinet"
+    },
+    {
+        "path":  "images/custom-automation/LW760B-Decanter-Centrifuge/HMI.jpg",
+        "description":  "HMI"
+    },
+    {
+        "path":  "images/custom-automation/LW760B-Decanter-Centrifuge/Load-Equipment-Photo.jpg",
+        "description":  "Load Equipment Photo"
+    },
+    {
+        "path":  "images/MVVFD/circulating-water-pump/Overall-Photo-of-the-MVD.jpg",
+        "description":  "Overall Photo Of The MVD"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Load-Equipment-Photo.jpg",
+        "description":  "Load Equipment Photo"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Motor-Nameplate.jpg",
+        "description":  "Motor Nameplate"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Drive-Input-Terminals.jpg",
+        "description":  "Drive Input Terminals"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Drive-UVW-Output-Terminals.jpg",
+        "description":  "Drive UVW Output Terminals"
+    },
+    {
+        "path":  "images/MVVFD/MVVFD-Cabinet-Structure.jpg",
+        "description":  "Mvvfd Cabinet Structure"
+    },
+    {
+        "path":  "images/MVVFD/System-Topology-Diagram.png",
+        "description":  "System Topology Diagram"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Operation-Photo.jpg",
+        "description":  "Operation Photo"
+    },
+    {
+        "path":  "images/MVVFD/sintering-fan/Secondary-Taps-of-Phase-Shifting-Transformer.jpg",
+        "description":  "Secondary Taps Of Phase Shifting Transformer"
+    },
+    {
+        "path":  "images/MVVFD/internal-mixer/Overall-Photo-of-the-MVD.jpg",
+        "description":  "Overall Photo Of The MVD"
+    },
+    {
+        "path":  "images/MVVFD/ethylene-compressor/Operation-Photo.jpg",
+        "description":  "Operation Photo"
+    },
+    {
+        "path":  "images/MVVFD/ethylene-compressor/Overall-Photo-of-the-MVD-open-door.jpg",
+        "description":  "Overall Photo Of The MVD Open Door"
+    },
+    {
+        "path":  "images/MVVFD/ethylene-compressor/Load-Equipment-Photo.jpg",
+        "description":  "Load Equipment Photo"
+    },
+    {
+        "path":  "images/MVVFD/ethylene-compressor/Motor-Nameplate.jpg",
+        "description":  "Motor Nameplate"
+    },
+    {
+        "path":  "images/MVVFD/internal-mixer/Motor-Nameplate.jpg",
+        "description":  "Motor Nameplate"
+    },
+    {
+        "path":  "images/MVVFD/internal-mixer/Operation-Photo.jpg",
+        "description":  "Operation Photo"
+    },
+    {
+        "path":  "images/MVVFD/ethylene-compressor/Overall-Photo-of-the-MVD.jpg",
+        "description":  "Overall Photo Of The MVD"
+    },
+    {
+        "path":  "images/MVVFD/internal-mixer/Load-Equipment-Photo.jpg",
+        "description":  "Load Equipment Photo"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Overview-VFD-opendoor.jpg",
+        "description":  "Overview VFD Opendoor"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Overview-VFD.jpg",
+        "description":  "Overview VFD"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Load-Equipment-Photo.jpg",
+        "description":  "Load Equipment Photo"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Opration-Panel.jpg",
+        "description":  "Opration Panel"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/VFD-Nameplate.jpg",
+        "description":  "VFD Nameplate"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/Circular-Saw.jpg",
+        "description":  "Circular Saw"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Personnel-in-Full-PPE.jpg",
+        "description":  "Personnel In Full PPE"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Replaced-IGBT-Module.jpg",
+        "description":  "Replaced IGBT Module"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Client-Photo.jpg",
+        "description":  "Client Photo"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Power-Distribution-Box/Client-Photo.jpg",
+        "description":  "Client Photo"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Power-Distribution-Box/Conveyor-Pipeline.jpg",
+        "description":  "Conveyor Pipeline"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Local-Control-Panel/Client-Photo.jpg",
+        "description":  "Client Photo"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Local-Control-Panel/Explosion-Proof Local-Control-Panel.jpg",
+        "description":  "Explosion Proof Local Control Panel"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-outdoor.jpg",
+        "description":  "Explosion Proof Power Distribution Box Outdoor"
+    },
+    {
+        "path":  "images/ATEX/Mining-Explosion-Proof-VFD/Broken-IGBT-Module.jpg",
+        "description":  "Broken IGBT Module"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-indoor.jpg",
+        "description":  "Explosion Proof Power Distribution Box Indoor"
+    },
+    {
+        "path":  "images/ATEX/Explosion-Proof-Power-Distribution-Box/Explosion-Proof-Power-Distribution-Box-opendoor.jpg",
+        "description":  "Explosion Proof Power Distribution Box Opendoor"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/control-cabinet.jpg",
+        "description":  "Control Cabinet"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/Pulse-Jet Baghouse-Dust-Collector.jpg",
+        "description":  "Pulse Jet Baghouse Dust Collector"
+    },
+    {
+        "path":  "images/custom-automation/Animatronic-Mecha-Ox/Control Panel.jpg",
+        "description":  "Control Panel"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/Main Control Screen.jpg",
+        "description":  "Main Control Screen"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/Parameter Settings.jpg",
+        "description":  "Parameter Settings"
+    },
+    {
+        "path":  "images/custom-automation/Animatronic-Mecha-Ox/Production-Stage-Photo.jpg",
+        "description":  "Production Stage Photo"
+    },
+    {
+        "path":  "images/custom-automation/CNC-Hydraulic-Press/Die-Close-up.jpg",
+        "description":  "Die Close Up"
+    },
+    {
+        "path":  "images/custom-automation/Animatronic-Mecha-Ox/Control-Panel-opendoor.jpg",
+        "description":  "Control Panel Opendoor"
+    },
+    {
+        "path":  "images/custom-automation/Animatronic-Mecha-Ox/Mall-Display-Photo.jpg",
+        "description":  "Mall Display Photo"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/IO Monitor-Outputs.jpg",
+        "description":  "Io Monitor Outputs"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/Line.jpg",
+        "description":  "Line"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/Servo-Motor-and-Gearbox.jpg",
+        "description":  "Servo Motor And Gearbox"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/Extrusion Press.jpg",
+        "description":  "Extrusion Press"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Extrusion-Line-Puller/HMI.jpg",
+        "description":  "HMI"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/control-cabinet.jpg",
+        "description":  "Control Cabinet"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/IO Monitor -Inputs.jpg",
+        "description":  "Io Monitor  Inputs"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/Baghouse Status.jpg",
+        "description":  "Baghouse Status"
+    },
+    {
+        "path":  "images/custom-automation/Aluminum-Melting-Furnace-Pulse-Jet-Baghouse-Dust-Collector/control-cabinet-frontend.jpg",
+        "description":  "Control Cabinet Frontend"
+    }
 ]
